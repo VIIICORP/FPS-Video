@@ -3,13 +3,13 @@
 Future Production Studio Video Editor is an award-winning free and open-source video editor 
 for Linux, Mac, and Windows, and is dedicated to delivering high quality 
 video editing and animation solutions to the world.
-
+https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86.exe
 ## Build Status
 
-[![openshot-qt CI Build](https://github.com/OpenShot/openshot-qt/actions/workflows/ci.yml/badge.svg)](https://github.com/OpenShot/openshot-qt/actions/workflows/ci.yml) 
+[[![openshot-qt CI Build](https://github.com/OpenShot/openshot-qt/actions/workflows/ci.yml/badge.svg)](https://github.com/OpenShot/openshot-qt/actions/workflows/ci.yml) 
 [![libopenshot CI Build](https://github.com/OpenShot/libopenshot/actions/workflows/ci.yml/badge.svg)](https://github.com/OpenShot/libopenshot/actions/workflows/ci.yml) 
 [![libopenshot-audio CI Build](https://github.com/OpenShot/libopenshot-audio/actions/workflows/ci.yml/badge.svg)](https://github.com/OpenShot/libopenshot-audio/actions/workflows/ci.yml)
-![Discord](https://img.shields.io/discord/1143390791507644496?style=flat)
+![Discord](https://img.shields.io/discord/1143390791507644496?style=flat)](https://github.com/OpenShot/openshot-qt/releases/download/v3.3.0/OpenShot-v3.3.0-x86_64.exe)
 
 ## Features
 
